@@ -1,0 +1,13 @@
+OOP, or Object-Oriented Programming, is a programming paradigm centered around objects rather than actions. In OOP, objects are instances of classes, which can contain both data (attributes) and functions (methods). Here are the main concepts of OOP:
+
+Class: A blueprint for creating objects. It defines a set of attributes and methods that the created objects will have.
+
+Object: An instance of a class. It contains data and methods to manipulate that data.
+
+Inheritance: A mechanism where a new class inherits the attributes and methods of an existing class. This promotes code reuse and establishes a natural hierarchy.
+
+Encapsulation: The bundling of data and methods that operate on the data within one unit (a class), and restricting access to some of the object's components. This is usually achieved through access modifiers.
+
+Polymorphism: The ability of different objects to respond, each in its own way, to identical messages (or methods). It allows one interface to be used for a general class of actions.
+
+Abstraction: The concept of hiding the complex implementation details and showing only the necessary features of the object. This simplifies the interaction with the object.
